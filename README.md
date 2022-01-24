@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# UseEffect practice to fetch data from an API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[View Demo](https://chernyshevanetology.github.io/useeffect/).
 
